@@ -1,4 +1,4 @@
-# elpscrk
+# elpscrk(Python3)
 A Common User Passwords generator script that looks like the tool Eliot used it in Mr.Robot Series Episode 01 :D :v
 
 >Of course it's better the cupp tool because it generates all the possible passwords that cupp doesn't generates
