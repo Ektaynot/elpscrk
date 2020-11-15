@@ -6,11 +6,12 @@ A Common User Passwords generator script that looks like the tool Eliot used it 
 # Installation
 
 ```
-git clone https://github.com/D4Vinci/elpscrk.git
+git clone https://github.com/Ektaynot/elpscrk.git
 ```
 
 # Usage
-Just open the script and type the info you know as in the screenshot and as Eliot did in MrRobot
+python3 elpscrk.py
+Info (Split It)->numberorword;numberorword;numberorword
 
 # Screenshot
 ![alt tag](https://github.com/D4Vinci/elpscrk/blob/master/b26c11b0-506e-11e6-8b77-689c15ea4d2c.jpg)
